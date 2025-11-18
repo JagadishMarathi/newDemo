@@ -1,22 +1,24 @@
 //Git Commands
 
-git init
+1) git init
 
 ls -force
 
-git remote add origin https://github.com/chikipihamara-cloud/FLIPKART.git
+2) git remote add origin https://github.com/chikipihamara-cloud/FLIPKART.git
 
-git remote -v
+3) git remote -v
 
 git status
 
-git add.  (applies for all files)
+4) git add .  (applies for all files)
 
 git add filename (ex:index.html)
 
 git commit
 
-git commit -m "message"  (-->recomended)
+5) git commit -m "message"  (-->recomended)
 
 git branch
+
+6) git push 
 
